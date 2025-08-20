@@ -96,8 +96,6 @@ Create a .env.local file:
 
 - npm run dev
 
-The app will be available at http://localhost:3000
-
 ## Database
 
 - Prisma models: User, Assessment, Resume, CoverLetter, IndustryInsight
